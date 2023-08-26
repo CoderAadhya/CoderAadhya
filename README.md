@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://codepen.io/coderaadhya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="coderaadhya" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/aadhya goel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aadhya goel" height="30" width="40" /></a>
-<a href="https://discord.gg/1060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hermione#1060" height="30" width="40" /></a>
+<a href="https://discord.gg/Hermione#1060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hermione#1060" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
